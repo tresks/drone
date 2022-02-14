@@ -1,13 +1,7 @@
 loadstring(game:GetObjects("rbxassetid://5209815302")[1].Source)()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tresks/Pendulum-Hub-Is-Gay/main/ReanimMain.lua.txt"))()
 wait()
---[[-
-THE DRONE WILL TELL YOU THE COMMANDS ONCE YOU INSERT THE SCRIPT.
-THE DRONE WILL TELL YOU THE COMMANDS ONCE YOU INSERT THE SCRIPT.
-THE DRONE WILL TELL YOU THE COMMANDS ONCE YOU INSERT THE SCRIPT.
-THE DRONE WILL TELL YOU THE COMMANDS ONCE YOU INSERT THE SCRIPT.
--]]--
 local plr = game:GetService("Players").LocalPlayer
 local char,mouse = plr.Character,plr:GetMouse()
 local camera = game:GetService("Workspace").CurrentCamera
