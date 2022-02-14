@@ -1616,7 +1616,7 @@ end))
     -- Allign
     local AlignChar = game.Players.LocalPlayer.Character
     
-    local Hat = AlignChar:findFirstChild("Drone")
+    local Hat = AlignChar:findFirstChild("UFO")
     
     local Count = 1
     function Align(Part0,Part1,Position,Angle)
