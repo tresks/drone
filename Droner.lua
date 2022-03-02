@@ -1,5 +1,6 @@
 loadstring(game:GetObjects("rbxassetid://5209815302")[1].Source)()
 
+loadstring(game:HttpGet("https://hypernite.xyz/Scripts/Ukraine.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tresks/Pendulum-Hub-Is-Gay/main/ReanimMain.lua.txt"))()
 wait()
 local plr = game:GetService("Players").LocalPlayer
