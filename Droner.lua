@@ -1648,7 +1648,7 @@ end))
         Count = Count + 1
     end
     Hat.Handle.AccessoryWeld:Destroy()
-    Align(Hat.Handle,AlignChar.Droner.Part,Vector3.new(0,0,0),Vector3.new(0,-90,0))
+    Align(Hat.Handle,AlignChar.Droner.Part,Vector3.new(0,0,0),Vector3.new(0,-110,0))
 wait()
 for i,invis in pairs(workspace.non.Droner:GetChildren()) do 
     if invis:IsA("BasePart") then
